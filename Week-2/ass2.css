@@ -1,0 +1,41 @@
+body{
+	display:flex;
+	flex-direction:column;
+}
+img{
+	border-radius:50px;
+	padding: 40px;
+	flex: 0 1 auto;
+}
+.heading{
+	display:flex;
+	flex: 1 1 0;
+	justify-content:center;
+}
+.mbody{
+	display:flex;
+}
+.imgnup{
+	flex: 0 1 50%;
+	padding: 20px;
+	display:flex;
+	flex-direction:column;
+}
+.threeparas{
+	display:flex;
+	flex-direction:column;
+	padding: 20px;
+	justify-content:space-between;
+}.mform{
+	display:flex;
+	justify-content: space-around;
+}
+input, label{
+	margin:5px;
+}
+button:hover{
+	background-color:aqua;
+}
+a{
+	color:red;
+}
