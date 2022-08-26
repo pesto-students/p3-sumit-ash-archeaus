@@ -1,0 +1,16 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.todo {
+  cursor: pointer;
+}
+.strike {
+  text-decoration: line-through blue;
+}
+body{
+  background-color: palegoldenrod;
+  align-content: center;
+}
